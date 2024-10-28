@@ -1,26 +1,33 @@
-<div>
-    <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Lgsarius&count_private=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117ff&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Lgsarius&count_private=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Lgsarius&count_private=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="Stats" width="490" style="max-width:50%">
-</picture>
-    
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgsarius&count_private=true&hide_border=true&exclude_repo=MatterelloMV&langs_count=10&layout=compact&bg_color=0d1117ff&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgsarius&count_private=true&hide_border=true&exclude_repo=MatterelloMV&langs_count=10&layout=compact"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgsarius&count_private=true&hide_border=true&exclude_repo=MatterelloMV&langs_count=10&layout=compact" alt="Top Languages"width="340" style="max-width:50%">
-</picture>
-</div>
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Lgsarius&show_icons=true&hide_border=true&bg_color=0d1117&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Lgsarius&show_icons=true&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lgsarius&show_icons=true&hide_border=true" 
+         alt="GitHub Stats" 
+         width="490"
+    />
+  </picture>
 
+  <!-- Top Languages Card -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgsarius&layout=compact&hide_border=true&bg_color=0d1117&theme=dark&langs_count=10&exclude_repo=MatterelloMV"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgsarius&layout=compact&hide_border=true&langs_count=10&exclude_repo=MatterelloMV"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgsarius&layout=compact&hide_border=true&langs_count=10&exclude_repo=MatterelloMV"
+         alt="Top Languages"
+         width="340"
+    />
+  </picture>
+</div>
